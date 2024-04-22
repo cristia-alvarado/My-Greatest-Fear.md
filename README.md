@@ -14,11 +14,27 @@ __By. Cristian Alvarado__
 2. I trace my fear of being alone to a negative or traumatic experience.
 3. When I feel alone I feel disconnected from the world.
 
-### **Table Explantion of My Fear**
-| Syntax      | Description | 
+### **Video Explantion of My Fear**
+| video     | Expaining fear | 
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| [Being Alone](https://www.youtube.com/watch?v=SlQotZd5uSM0)  | this video expalins all about my fear|
+
+### **A Code That Can Help This Fear**
+```
+{
+function FeelingAlone () {
+if you're sad = true
+splice . ()
+}
+```
+
+### **Check List For Helping Me Get Over This Fear**
+> :bulb: **Tip:** Remember to that you have people in your life that love you.
+- [ ] Relaxation techniques, like deep breathing exercises and meditation, to help you manage symptoms.
+- [X] Make time alone be quality time with yourself.
+- [ ] Phone a friend.
+- [ ] ~~hide your emotions~~ Dont do this.
+
 
 
 
