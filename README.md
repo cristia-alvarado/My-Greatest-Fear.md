@@ -20,7 +20,7 @@ __By. Cristian Alvarado__
 | [Being Alone](https://www.youtube.com/watch?v=SlQotZd5uSM0)  | this video expalins all about my fear|
 
 ### **A Code That Can Help This Fear**
-```
+```js
 {
 function FeelingAlone () {
 if you're sad = true
